@@ -19,8 +19,13 @@
    - <b>Proxmox Lab setup</b><br/>
   
   <b><img align="center" src="https://i.imgur.com/gCt1c7f.png" /></b><br/>
-  
 
+<h2>👨‍💻 Hyper-V</h2>
+   - <b>Hyper-V Lab setup</b><br/>
+  
+  <b><img align="center" src="https://i.imgur.com/kyBDOLi.png
+" /></b><br/>
+   
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
