@@ -1,11 +1,9 @@
 <h1>Virtualization</a></h1>
 
 <h2>👨‍💻 Virtualization Platforms</h2>
-
 - <b>Virtual Box</b><br/>
 
-  <b><img align="center" src="https://i.imgur.com/CsaHQku.png" /></b><br/>
-
+  <b><img align="center" src="https://i.imgur.com/CsaHQku.png" /></b><br/>  
   - <b>Labsetup - 1</b><br/>
   
   <b><img align="center" src="https://i.imgur.com/RYJxINY.png" /></b><br/>
@@ -16,16 +14,13 @@
   
   <b><img align="center" src="https://i.imgur.com/6htDcD8.png" /></b><br/>
   <h2>👨‍💻 Proxmox</h2>
-   - <b>Proxmox Lab setup</b><br/>
-  
-  <b><img align="center" src="https://i.imgur.com/gCt1c7f.png" /></b><br/>
+  - <b>Proxmox Lab setup</b><br/>
 
-<h2>👨‍💻 Hyper-V</h2>
-   - <b>Hyper-V Lab setup</b><br/>
-  
-  <b><img align="center" src="https://i.imgur.com/kyBDOLi.png
-" /></b><br/>
-   
+  <b><img align="center" src="https://i.imgur.com/gCt1c7f.png" /></b><br/>
+  <h2>👨‍💻 Hyper-V</h2>
+  - <b>Hyper-V Lab setup</b><br/>
+
+  <b><img align="center" src="https://i.imgur.com/kyBDOLi.png" /></b><br/>
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
