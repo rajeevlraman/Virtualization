@@ -10,7 +10,7 @@ Hey, starting a homelab with a particular Virtualization platform was the initai
   - <b>***The Virtual Box Holmesglen Netlab Setup 1*** .</b><br/>
   
   <b><img align="center" src="https://i.imgur.com/RYJxINY.png" /></b><br/>
-  - <b>Labsetup - 2</b><br/>
+  - <b>***The Virtual Box SIEM Setup 2*** .</b><br/>
   
   <b><img align="center" src="https://i.imgur.com/7to5deQ.png" /></b><br/>
   - <b>Labsetup - 3</b><br/>
