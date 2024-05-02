@@ -7,7 +7,7 @@ Hey, starting a homelab with a particular Virtualization platform was the initai
 ***The Proxmox lab*** environment is built to understand the baremetal server environment and various linux based installations. It is a general lab environment with a SOC analyst perspective and to understand the Proxmox platform.<br><br>
 ***The Hyper-V Lab*** environment is built again to understand the platform and aslo to experiment with various windows scenarios. I have used this lab most extensively to setup and manage Domain Controller, Active Directory services, IIS(Internt Information Services) Web server, and Microsoft Exchange server. windows 11 and Office 365 Deployment Lab kit is a wonderful lab to learn a lot on deployment and configuration services.<br><br>
   <b><img align="center" src="https://i.imgur.com/CsaHQku.png" /></b><br/>  
-  - <b>Labsetup - 1</b><br/>
+  - <b>***The Virtual Box Holmesglen Netlab Setup 1*** .</b><br/>
   
   <b><img align="center" src="https://i.imgur.com/RYJxINY.png" /></b><br/>
   - <b>Labsetup - 2</b><br/>
