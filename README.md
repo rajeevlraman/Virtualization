@@ -13,7 +13,7 @@ Hey, starting a homelab with a particular Virtualization platform was the initai
   - <b>***The Virtual Box SIEM Setup 2*** .</b><br/>
   
   <b><img align="center" src="https://i.imgur.com/7to5deQ.png" /></b><br/>
-  - <b>Labsetup - 3</b><br/>
+  - <b>***The Virtual Box Open Vpn Setup 3*** .</b><br/>
   
   <b><img align="center" src="https://i.imgur.com/6htDcD8.png" /></b><br/>
   <h2>👨‍💻 Proxmox</h2>
