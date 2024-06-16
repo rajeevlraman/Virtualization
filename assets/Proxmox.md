@@ -31,4 +31,4 @@ Here are its key features, pros, and cons:<br><br>
 - **Compatibility Issues:** Like any virtualization platform, compatibility issues with specific hardware or software configurations may arise.
 - **Enterprise Features:** Some advanced features may require a Proxmox VE subscription or additional configuration.
 
-<img align="center" src="images/picture1.PNG" /><br/>
+<img align="center" src="https://github.com/rajeevlraman/Virtualization/blob/main/images/picture1.PNG" /><br/>
