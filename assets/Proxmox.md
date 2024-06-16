@@ -30,3 +30,5 @@ Here are its key features, pros, and cons:<br><br>
 - **Resource Requirements:** Running Proxmox VE effectively may demand significant resources, especially for larger deployments.
 - **Compatibility Issues:** Like any virtualization platform, compatibility issues with specific hardware or software configurations may arise.
 - **Enterprise Features:** Some advanced features may require a Proxmox VE subscription or additional configuration.
+
+<img align="center" src="Virtualization/images/picture1.png" /><br/>
