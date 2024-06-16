@@ -22,4 +22,5 @@ most of my labs are in VirtualBox.
 - **Complexity:** Configuring advanced networking and optimizing performance may require a deeper understanding of virtualization concepts.
 - **Hardware Support:** While it supports a wide range of hardware, compatibility issues may arise with newer or less common hardware configurations.
 
-![MY Virtual Box VMs](https://github.com/rajeevlraman/Virtualization/edit/main//images/VIRTUAL BOX.png)
+<img align="center" src="/images/VIRTUAL BOX.png" /><br/>
+
