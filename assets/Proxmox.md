@@ -29,6 +29,8 @@ Here are its key features, pros, and cons:<br><br>
 - **Learning Curve:** Setting up and configuring Proxmox VE, especially in clustered environments, may require a learning curve.
 - **Resource Requirements:** Running Proxmox VE effectively may demand significant resources, especially for larger deployments.
 - **Compatibility Issues:** Like any virtualization platform, compatibility issues with specific hardware or software configurations may arise.
-- **Enterprise Features:** Some advanced features may require a Proxmox VE subscription or additional configuration.
+- **Enterprise Features:** Some advanced features may require a Proxmox VE subscription or additional configuration.<br><br>
 
+This is my proxmox setup<br><br>
+It also has the similar VMs, a Kali Linux, Windows Domain controller with a client pc, Splunk , Security Onion and Few Vulnerable machines.<br><br>
 <img align="center" src="https://github.com/rajeevlraman/Virtualization/blob/main/images/picture1.PNG" /><br/>
